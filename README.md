@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Shrawani08
-- 👀 I’m a student looking to leverage my coding skills.
+- 👋 Hi, I’m Shrawani More, a computer science student.
+- 👀 currrently working towards developing my coding skills.
 - 🌱 I’m currently pursuing undergrad in Computer Engineering
 -  Learning, experimenting, and squashing bugs (the digital kind!)
 
